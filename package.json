@@ -10,7 +10,8 @@
     "expenditure-analysis": "npx jest ./01-js/tests/expenditure-analysis.test.js",
     "findLargestElement": "npx jest ./01-js/tests/findLargestElement.test.js",
     "palindrome": "npx jest ./01-js/tests/palindrome.test.js",
-    "todo-list": "npx jest ./01-js/tests/todo-list.test.js"
+    "todo-list": "npx jest ./01-js/tests/todo-list.test.js",
+    "all": "npx jest ./tests/"
   },
   "keywords": [],
   "author": "",

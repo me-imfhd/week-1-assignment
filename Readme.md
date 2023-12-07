@@ -25,7 +25,7 @@ If you don't have Node.js locally, you can copy the files to repl.it and run the
 #### Instructions for Running Tests
  **Clone the Repository:**
    ```bash
-   git clone git@github.com:me-imfhd/week-1-assignment.git
+   git clone https://github.com/me-imfhd/week-1-assignment.git
 ```
 **Make sure you have Node.js, npm, and npx installed:**
   Install Jest globally using the following command:
